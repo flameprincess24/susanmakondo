@@ -4,7 +4,7 @@ Software engineering student at **ZCAS University** (Zambia). I like building so
 
 **Languages and tools:** Java · Python · C++ · SQL · HTML / CSS / JavaScript · Eclipse · UML
 
-📫 Reach me: [your email] · [LinkedIn link]
+📫 Reach me: [susanmakondo7@gmail.com] · [www.linkedin.com/in/susan-makondo-a19ba8367]
 
 ---
 
@@ -22,7 +22,7 @@ A Java application that collects student feedback on lecturers and teaching qual
 
 **Tech:** Java, Eclipse, data visualization, data export
 **Status:** [In progress / Complete]
-**Link:** [add repo folder link]
+
 
 ---
 
@@ -35,7 +35,7 @@ A tool for builders in Zambia that calculates the materials a house needs, now b
 
 **Tech:** HTML, JavaScript, 3D graphics
 **Status:** Estimator working, house designer in development
-**Link:** [add repo folder link]
+
 
 ---
 
@@ -46,7 +46,7 @@ A database assignment that stores, searches and manages student records using co
 - Add, search and organise student records
 
 **Tech:** Data structures, database design
-**Link:** [add repo folder link]
+**Link:** 
 
 ---
 
@@ -59,7 +59,7 @@ A creative front-end experiment with a lot of visual polish.
 - Clip-path transitions
 
 **Tech:** HTML5 Canvas, CSS, JavaScript
-**Link:** [add repo folder link]
+**Link:** 
 
 ---
 
@@ -72,7 +72,7 @@ Implementations built while studying for my DSA exam.
 - Graph structures
 
 **Tech:** C++
-**Link:** [add repo folder link]
+**Link:** 
 
 ---
 
@@ -80,7 +80,7 @@ Implementations built while studying for my DSA exam.
 Teaching material and examples in Python and Java covering the four pillars of OOP (encapsulation, inheritance, polymorphism, abstraction), constructors, and exam-style questions.
 
 **Tech:** Python, Java
-**Link:** [add repo folder link]
+**Link:** 
 
 ---
 
